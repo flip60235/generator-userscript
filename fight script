@@ -1,0 +1,134 @@
+
+// Function to format coins
+function formatCoins(value) {
+  return value.toLocaleString();
+}
+
+// Function to update the score display
+function updateScore(data) {
+  let gainedPointsStream = formatCoins(data.fightResults.gainedPointsStream);
+  let givenPointsStream = formatCoins(data.fightResults.givenPointsStream);
+  score.innerHTML = "Score: " + gainedPointsStream + " --- " + givenPointsStream;
+}
+
+// Function to handle fight results
+function handleFightResults(data) {
+  if (data.fightResults.playerGainedSkill) {
+    sp.innerHTML = "Sp: " + data.fightResults.playerGainedSkill;
+    xzsder5rggr4eee += data.fightResults.playerGainedSkill;
+    xhhherty.innerHTML = "Total Sp: " + xzsder5rggr4eee;
+  }
+
+  try {
+    health.innerHTML = "Health: " + data.selfStats.stats.health + "/" + data.targetStats.stats.health;
+  } catch (e) {}
+
+  try {
+    if (data.selfStats.stats.level) {
+      level.innerHTML = "Level: " + data.selfStats.stats.level;
+    }
+  } catch (e) {}
+
+  updateScore(data);
+
+  if (data.fightResults.givenPointsStreamMap) {
+    try {
+      xeeerewewr.innerHTML = Object.keys(data.fightResults.givenPointsStreamMap);
+    } catch (e) {}
+  }
+}
+
+// Function to perform the fight
+function performFight() {
+  let timestamp = new Date().getTime();
+  let url = "https://www.mocospace.com/wap2/game/streetwars/fight-api.jsp?nfs=t&r=" + timestamp + "&u=" + MocoSpaceAPI.loggedInUserId + "&t=" + tid + "&etr=true&ets=" + kx;
+
+  if (typeof xnnnertwty !== 'undefined') {
+    url += "&" + xnnnertwty;
+  }
+
+  xcrgtffffffffff4dss += 1;
+  xsdsfrggg = Math.round(Math.random() * 26 + 304);
+  xsdfdgdghk = Math.round(Math.random() * 21 + 368);
+  let t = Math.round(Math.random() * 17 + 0);
+  let xxx = xc[t];
+  let yyy = yc[t];
+
+  $.ajax({
+    url: url,........................................................................................................................................................................................................................
+    type: "POST",
+    data: {
+      initLinks: false,
+      targetId: tid,
+      autoFight: true,
+      timestamp: timestamp,
+      ts1: timestamp - parseInt(xxx),
+      ts2: timestamp - parseInt(yyy),
+      v: vvx,
+      htmlGameFrame: false,
+      overrideWitnessProtection: false
+    },
+    success: function(response) {
+      let data = response.Object[0];
+      if (data) {
+        handleFightResults(data);
+      }
+
+      if (response.Object[0].fightResults.errorDescription) {
+        try {
+          ed.innerHTML = response.Object[0].fightResults.errorDescription;
+          setTimeout(function() {
+            ed.innerHTML = '';
+          }, 1000);
+        } catch (e) {}
+      }
+
+      if (response.Object[0].redirect) {
+        document.location = response.Object[0].redirect;
+      }
+    },
+    error: function(error) {
+      performFight();
+    }
+  });
+}
+
+// Function to start the auto-fight
+function startAutoFight() {
+  xtuygrt5fef3wd = true;
+  np.style.color = "#ff00de";
+  let interval = parseInt(1000 / xbfgrgfrgrfd.innerHTML);
+  hhtx = setInterval(performFight, interval);
+}
+
+// Function to stop the auto-fight
+function stopAutoFight() {
+  xnnhhhnbwwerty = false;
+  xtuygrt5fef3wd = false;
+  xzsdfeqqewrty.style.color = '#21ff21';
+  clearInterval(hhtx);
+}
+
+// Event listeners for the custom controls
+np.addEventListener("click", startAutoFight);
+xoiujhjyj6h.addEventListener("click", function() {
+  let currentSpeed = parseInt(xbfgrgfrgrfd.innerHTML);
+  if (currentSpeed < 30) {
+    xbfgrgfrgrfd.innerHTML = currentSpeed + 3;
+  }
+});
+xdcxdg55fef.addEventListener("click", function() {
+  let currentSpeed = parseInt(xbfgrgfrgrfd.innerHTML);
+  if (currentSpeed > 5) {
+    xbfgrgfrgrfd.innerHTML = currentSpeed - 3;
+  }
+});
+xvgtttertyd3e.addEventListener("click", stopAutoFight);
+xzsdfeqqewrty.addEventListener("click", function() {
+  xzsdfeqqewrty.style.color = 'red';
+  xtuygrt5fef3wd = true;
+  if (xnnhhhnbwwerty === 0) {
+    xnnhhhnbwwerty = true;
+    performFight();
+  }
+});
